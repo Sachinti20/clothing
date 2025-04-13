@@ -115,7 +115,7 @@
   }
 
   .abt-img {
-    background-image: url("/asset/images/aboutsarees.jpg");
+    background-image: url("asset/images/aboutsarees.jpg");
     background-size: cover;
     width: 50%;
     height: 100vh;
