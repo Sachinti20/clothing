@@ -27,7 +27,7 @@
   }
 
   .container {
-    background-image: url("/asset/images/handicraft.jpg");
+    background-image: url("asset/images/handicraft.jpg");
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -133,7 +133,7 @@
       line-height: 3.4rem;
   }
 .loc{
-  background-image: url("/asset/images/rajasthanilahenga.jpg");
+  background-image: url("asset/images/rajasthanilahenga.jpg");
   background-size:cover;
   width: fit-content;
 }
